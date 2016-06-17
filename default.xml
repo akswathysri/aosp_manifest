@@ -381,7 +381,7 @@
   <project path="packages/apps/TvSettings" name="platform/packages/apps/TvSettings" />
   <project path="packages/apps/UnifiedEmail" name="platform/packages/apps/UnifiedEmail" />
   <project path="packages/experimental" name="platform/packages/experimental" />
-  <project name="F-AOSP/platform_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="github" revision="aosp-5.1" />
+  <project name="swatz93/packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="github" revision="test" />
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" groups="pdk-cw-fs" />
   <project name="F-AOSP/platform_packages_providers_ContactsProvider" path="packages/providers/ContactsProvider" groups="pdk-cw-fs" remote="github" revision="lollipop-5.1" />
@@ -464,7 +464,6 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
   <project name="swatz93/vendor_aosp" path="vendor/aosp" remote="github" revision="aosp-5.1" />
-
   <project name="swatz93/aosp_manifest" path="manifest" remote="github" revision="lollipop-5.1" />
 
   <!-- Moto E 2015 ->
