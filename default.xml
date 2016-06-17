@@ -471,4 +471,10 @@
   <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-12.1" />
   <project name="CyanogenMod/android_kernel_motorola_otus" path="kernel/motorola/otus" remote="github" revision="cm-12.1" />
 
+  <!-- Xioami Redmi 2 -->
+  <project name="swatz93/device_wingtech_wt88047" path="device/wingtech/wt88047" remote="github" revision="test" />
+  <project name="swatz93/device_cyanogen_msm8916-common" path="device/cyanogen/msm8916-common" remote="github" revision="test" />
+  <project name="TheMuppets/proprietary_vendor_wingtech" path="vendor/wingtech" remote="github" revision="cm-12.1" />
+  <project name="CyanogenMod/android_kernel_wingtech_msm8916" path="kernel/wingtech/msm8916" remote="github" revision="cm-12.1" />
+
 </manifest>
