@@ -467,4 +467,9 @@
 
   <project name="swatz93/aosp_manifest" path="manifest" remote="github" revision="lollipop-5.1" />
 
+  <!-- Moto E 2015 ->
+  <project name="swatz93/device_motorola_otus" path="device/motorola/otus" remote="github" revision="test" />
+  <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-12.1" />
+  <project name="CyanogenMod/android_kernel_motorola_otus" path="kernel/motorola/otus" remote="github" revision="cm-12.1" />
+
 </manifest>
