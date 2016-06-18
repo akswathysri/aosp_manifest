@@ -476,5 +476,7 @@
   <project name="swatz93/device_cyanogen_msm8916-common" path="device/cyanogen/msm8916-common" remote="github" revision="test" />
   <project name="TheMuppets/proprietary_vendor_wingtech" path="vendor/wingtech" remote="github" revision="cm-12.1" />
   <project name="CyanogenMod/android_kernel_wingtech_msm8916" path="kernel/wingtech/msm8916" remote="github" revision="cm-12.1" />
+  <project name="F-AOSP/platform_external_bson" path="external/bson" remote="github" revision="aosp-5.1" />
+  <project name="F-AOSP/platform_external_mm-dash" path="external/mm-dash" remote="github" revision="aosp-5.1" />
 
 </manifest>
