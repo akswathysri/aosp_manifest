@@ -463,7 +463,7 @@
   <project path="tools/studio/translation" name="platform/tools/studio/translation" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
-  <project name="swatz93/vendor_aosp" path="vendor/aosp" remote="github" revision="test" />
+  <project name="swatz93/aosp_vendor_aosp" path="vendor/aosp" remote="github" revision="test" />
   <project name="swatz93/aosp_manifest" path="manifest" remote="github" revision="test" />
 
   <!-- Moto E 2015 -->
