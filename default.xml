@@ -12,7 +12,7 @@
            remote="aosp"
            sync-j="4" />
 
-  <project name="swatz93/build" path="build" groups="pdk,tradefed" remote="github" revision="aosp-5.1" >
+  <project name="swatz93/build" path="build" groups="pdk,tradefed" remote="github" revision="test" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <copyfile src="build.sh" dest="build.sh" />
   </project>
